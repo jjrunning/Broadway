@@ -11,3 +11,18 @@
   font-size: 18px;
   color:white;
 }
+#home{
+  text-align: center;
+  font-family: Helvetica;
+}
+#home h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+#home h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+#home p {
+  font-size: 14px;
+}
