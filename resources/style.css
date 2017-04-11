@@ -11,18 +11,26 @@
   font-size: 18px;
   color:white;
 }
-#home{
+#process {
   text-align: center;
   font-family: Helvetica;
 }
-#home h2{
+#process h2{
   font-size: 32px;
   font-weight: bold;
 }
-#home h3 {
+#process h3 {
   font-size: 23px;
   font-weight: bold;
 }
-#home p {
+#process p {
   font-size: 14px;
+}
+#nydesign h3{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  color: white;
+  font-weight: bold;
+  font-family: Helvetica;
+  font-size: 23px;
+  text-align: center;
 }
