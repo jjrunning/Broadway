@@ -34,3 +34,42 @@
   font-size: 23px;
   text-align: center;
 }
+#work{
+  font-family: Helvetica;
+  text-align: center;
+}
+#work h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+#work p{
+  font-size: 14px;
+}
+#team{
+  font-family: Helvetica;
+  text-align: center;
+}
+#team h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+#team p{
+  font-size: 14px;
+}
+#contact{
+  font-family: Helvetica;
+  text-align: center;
+}
+#contact h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+#contact p{
+  font-size: 14px;
+}
+.footer{
+  font-family: Helvetica;
+  color: white;
+  background-color: dimgray;
+  font-size:11px;
+}
